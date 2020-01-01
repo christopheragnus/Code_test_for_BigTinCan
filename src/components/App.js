@@ -21,7 +21,7 @@ function App() {
           <Menu
             theme="dark"
             mode="horizontal"
-            defaultSelectedKeys={["3"]}
+            defaultSelectedKeys={["1"]}
             style={{ lineHeight: "64px" }}
           >
             <Menu.Item key="1">
